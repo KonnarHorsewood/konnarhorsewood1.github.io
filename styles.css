@@ -43,6 +43,9 @@ body {
     display: none;
     position: absolute;
     background-color: #333;
+    border: 5px solid #222;
+    border-top: 0;
+    margin-left: 5px;
 }
 #nav ul ul li {
     display: block;
