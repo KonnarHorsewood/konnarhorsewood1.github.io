@@ -42,4 +42,14 @@ body {
 #nav ul ul {
     display: none;
     position: absolute;
+    background-color: #333;
+}
+#nav ul ul li {
+    display: block;
+}
+#nav ul ul li a,visited {
+    color: #ccc;
+}
+#nav ul ul li a:hover {
+    color: #099;
 }
